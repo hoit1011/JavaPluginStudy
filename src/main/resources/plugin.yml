@@ -1,0 +1,9 @@
+name: Mkplugin
+version: '${version}'
+main: kr.psm.study.Mkplugin
+api-version: '1.20'
+
+commands:
+  돈:
+    description: 돈을 확인하는 명령어
+    usage: 돈을 확인하는 명령어

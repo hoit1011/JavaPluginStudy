@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="study:jar">
+    <output-path>$USER_HOME$/Desktop/minecraft-test-server/plugins/study</output-path>
+    <root id="archive" name="study.jar">
+      <element id="module-output" name="study.main" />
+    </root>
+  </artifact>
+</component>

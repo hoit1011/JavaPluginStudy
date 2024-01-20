@@ -1,0 +1,4 @@
+name: Mkplugin
+version: '${version}'
+main: kr.psm.study.Mkplugin
+api-version: '1.20'
